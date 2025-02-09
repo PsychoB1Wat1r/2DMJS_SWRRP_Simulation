@@ -1,6 +1,6 @@
 ## Networked Control of 2DMJS via SWRRP
 
-This repository contains the code implementation of our patent.
+This repository contains the code implementation of our patent (A protocol-based event-triggered asynchronous control for heat exchangers).
 
 ## Explanation:
 We use **MATLAB** as the programming language and employ the **Mosek solver** along with the **YALMIP toolbox** as development tools to perform numerical solution and simulation for the proposed method.
